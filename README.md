@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Mikail
 #### I am a Flutter developer
-![I am a Flutter developer](https://64.media.tumblr.com/ac1935aa1ab5fc9662c8ba8cc6b25b3c/e3af130c7e7d4f4e-92/s540x810/2d0457e9ece691738a02d5a9424982fb71658499.gifv)
+![I am a Flutter developer](https://media2.giphy.com/media/Y6FUCFt5N7Y8gRSInL/giphy.gif?cid=790b761199d055c72fefd2098e2f77f564e1a9819498c541&rid=giphy.gif&ct=g)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I created apps for 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: ***Flutter***/***Dart***/***PHP***
 
 - 🔭 I’m currently working on [Orca](https://orca.tb.ru/) 
 - 👯 I’m looking to collaborate on Backend developers 
