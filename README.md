@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi to all code lovers, my name is Mikail </h3>
+<h1 align="center">Hi to all code lovers:computer:, my name is Mikail </h3>
 <h3 align="center">And I'm a Flutter developer</h3>
 <p align="center">
   <img src="https://media2.giphy.com/media/Y6FUCFt5N7Y8gRSInL/giphy.gif?cid=790b761199d055c72fefd2098e2f77f564e1a9819498c541&rid=giphy.gif&ct=g" />
