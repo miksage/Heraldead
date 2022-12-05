@@ -1,13 +1,16 @@
-# Hi to all code lovers, my name is Mikail
-## I am a Flutter developer
-![I am a Flutter developer](https://media2.giphy.com/media/Y6FUCFt5N7Y8gRSInL/giphy.gif?cid=790b761199d055c72fefd2098e2f77f564e1a9819498c541&rid=giphy.gif&ct=g)
+<h3 align="center">Hi to all code lovers, my name is Mikail</h3>
+<h4 align="center">And I'm a Flutter developer</h4>
+<p align="center">
+  <img src="https://media2.giphy.com/media/Y6FUCFt5N7Y8gRSInL/giphy.gif?cid=790b761199d055c72fefd2098e2f77f564e1a9819498c541&rid=giphy.gif&ct=g" />
+</p>
+
 
 
 <h3 align="center">A little about me</h3>
 
->#### ***I am a 4th year MTUCI student. I am studying Secure Systems and Communication Networks. My journey in IT started from 11th grade. I have been involved in website >development. As I developed, I got more and more immersed in the web. I planned to become a PHP developer.***
+>#### ***I am a 4th year MTUCI student. I am studying Secure Systems and Communication Networks. My journey in IT started from 11th grade. I have been involved in website development. As I developed, I got more and more immersed in the web. I planned to become a PHP developer.***
 >![PHP](https://media1.giphy.com/media/kOZz8cXWsXabVQUarc/giphy.gif?cid=790b76117d0bf7f837f97f5c170f0de18fd6d6afdb144509&rid=giphy.gif&ct=g)
-
+>#### ***But just in time I noticed that I didn't like PHP and I wanted something more. Doing something like color:Colors.red and being happy when the button is recolored and earning as much as backenders do. XD***
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
