@@ -24,7 +24,7 @@
   
  <bold><h3 align="left">📌 Main Info</h3></bold>
 
-><em><strong><h4>I'm currently writing applications in flutter. Experience on flutter is 1+ years. During this time I've been able to participate in various projects. From the simplest, to quite complex and impressive (for my experience). I've won several hackathons. Worked in 3 different companies, 3 of which I still work. We develop solutions for hotel business automation.</em></strong></h4>
+><em><strong><h4>I'm currently writing applications in flutter. Experience on flutter is 3+ years. During this time I've been able to participate in various projects. From the simplest, to quite complex and impressive (for my experience). I've won several hackathons. Worked in 3 different companies, 3 of which I still work. We develop solutions for hotel business automation.</em></strong></h4>
 ><p align="center">
 >  <img src="https://media3.giphy.com/media/LSnxmiONseS4GC3svg/giphy.gif?cid=790b76117f41a49b4034b142c807b1138521a252be24cf7c&rid=giphy.gif&ct=g" />
 ></p>
