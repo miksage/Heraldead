@@ -12,7 +12,7 @@
 
 ><em><strong><h4>I am a 4th year MTUCI student. I am studying Secure Systems and Communication Networks. My journey in IT started from 11th grade. I have been involved in website development. As I developed, I got more and more immersed in the web. I planned to become a PHP developer.</h4></em></strong>
 ><p align="center">
->  <img src="https://media1.giphy.com/media/kOZz8cXWsXabVQUarc/giphy.gif?cid=790b76117d0bf7f837f97f5c170f0de18fd6d6afdb144509&rid=giphy.gif&ct=g" />
+> 
 ></p>
 ><em><strong><h4>But just in time I noticed that I didn't like PHP and I wanted something more. Doing something like color:Colors.red and being happy when the button is recolored and earning as much as backenders do. XD</h4></em></strong>
   
@@ -26,7 +26,7 @@
 
 ><em><strong><h4>I'm currently writing applications in flutter. Experience on flutter is 3+ years. During this time I've been able to participate in various projects. From the simplest, to quite complex and impressive (for my experience). I've won several hackathons. Worked in 3 different companies, 3 of which I still work. We develop solutions for hotel business automation.</em></strong></h4>
 ><p align="center">
->  <img src="https://media3.giphy.com/media/LSnxmiONseS4GC3svg/giphy.gif?cid=790b76117f41a49b4034b142c807b1138521a252be24cf7c&rid=giphy.gif&ct=g" />
+>
 ></p>
 ><em><strong><h4>Yep!I also have a software development studio. We develop cross-platform turnkey solutions. Creating webpages, business cards, online shops, corporate resources, blogs, catalogues, exclusive projects, MVP-product implementation and much more. You can get a free consultation and a preliminary assessment of the cost of implementation of the product. You can leave a request on our website, where also published completed jobs and companies we have already collaborated with</em</strong></h4>
 </p>
