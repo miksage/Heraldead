@@ -28,7 +28,7 @@
 ><p align="center">
 >
 ></p>
-><em><strong><h4>Yep!I also have a software development studio. We develop cross-platform turnkey solutions. Creating webpages, business cards, online shops, corporate resources, blogs, catalogues, exclusive projects, MVP-product implementation and much more. You can get a free consultation and a preliminary assessment of the cost of implementation of the product. You can leave a request on our website, where also published completed jobs and companies we have already collaborated with</em</strong></h4>
+><em><strong><h4>I also have a software development studio. We develop cross-platform turnkey solutions. Creating webpages, business cards, online shops, corporate resources, blogs, catalogues, exclusive projects, MVP-product implementation and much more. You can get a free consultation and a preliminary assessment of the cost of implementation of the product. You can leave a request on our website, where also published completed jobs and companies we have already collaborated with</em</strong></h4>
 </p>
 
 
